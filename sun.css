@@ -1,0 +1,6 @@
+.sun {
+    margin-top: 10px;
+    height: 80vh;
+    padding-block: 100px;
+    background: radial-gradient(circle, #f2f2f2, #9a9a9a41, #0f0f0f);
+}
