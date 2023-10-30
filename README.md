@@ -2,7 +2,7 @@
 
 This project includes an HTML and CSS file to create a sun-like design element.
 
-[Click here to access the deployed application](https://your-deployed-url.com)
+[Click here to access the deployed application](https://hadep275.github.io/Sun/)
 
 
 ## HTML Structure
