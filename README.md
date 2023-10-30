@@ -2,6 +2,9 @@
 
 This project includes an HTML and CSS file to create a sun-like design element.
 
+[Click here to access the deployed application](https://your-deployed-url.com)
+
+
 ## HTML Structure
 
 The HTML file (`index.html`) contains a single `<div>` element with the class "sun."
